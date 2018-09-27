@@ -1,5 +1,4 @@
 # Q Learning-Doom
-The neural network will approximate Q values based on the given state.
-
+Neural networks that learn to play Doom video game through Deep Q-Learning.
 
 
