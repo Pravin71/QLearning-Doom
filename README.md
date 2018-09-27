@@ -1,6 +1,6 @@
-# QLearning-Doom
+# Q Learning-Doom
 
-The nerual network will aproximate Q values based on the given state.
+The neural network will aproximate Q values based on the given state.
 
 
 
